@@ -23,5 +23,15 @@
     - `--graph`
         - 브랜치까지 시각적으로 표현해주는 옵션
 
+## github에 올리기
 
+- `git remote add origin '주소'`
+    - `remote` 원격저장소
+    - `add` 더하기
+    - `origin` 별명은 이거고
+    - 실제는 이 주소야
+
+- `git remote`
+    - 저장된지 확인 가능
+    - `-v` -> 주소와 별명까지 확인 가능
 

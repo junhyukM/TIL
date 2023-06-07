@@ -10,7 +10,7 @@
 
 ![git](https://git-scm.com/book/en/v2/images/areas.png)
 
-위의 세가지 상태로 버전이 관리되며 세가지 경우를 설정하고 관리하는 기본적인 command는 git_basic_command.md 파일에 작성
+위의 세가지 상태로 버전이 관리되며 세가지 경우를 설정하고 관리하는 기본적인 command는 [git_basic_command.md](https://github.com/junhyukM/TIL/blob/master/git/git_basic_command.md) 파일에 작성
 
 ---
 ## 기초 단계에서 Git을 사용하는 간단한 작업순서

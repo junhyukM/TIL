@@ -35,3 +35,5 @@
     - 저장된지 확인 가능
     - `-v` -> 주소와 별명까지 확인 가능
 
+- `git push origin master`
+    - `master` 브랜치를 `origin` 별명으로 저장된 주소에 `push`

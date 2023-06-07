@@ -22,10 +22,10 @@
     ```
         
 
-- `git commit -m "파일명"`
+- `git commit -m "커밋메세지"`
     - `commit`
     - `-m` -> 메세지
-    - "파일명"의 이름으로 커밋
+    - "커밋메세지"의 이름으로 커밋
     ```python
     # first commit 이라는 이름으로 add 된 파일 commit
     git commit -m "first commit"

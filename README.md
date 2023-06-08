@@ -19,6 +19,10 @@
 
 - 작업물을 관리하는 DVCS(분산 버전 관리 시스템)
     - [About_git.md](https://github.com/junhyukM/TIL/blob/master/git/About_git.md)
+
+
 - 개인 PC에 있는 작업물을 github을 이용해 관리하는 기본적인 방법 학습
+- Git을 사용한 협업 중 충돌 등의 문제가 일어날 수 있음
+- git pull, git merge 등의 명령어로 각 상황들에서 어떻게 해결이 가능한지 정리
     - [git_basic_command.md](https://github.com/junhyukM/TIL/blob/master/git/git_basic_command.md)
 

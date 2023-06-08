@@ -5,7 +5,7 @@
 ## Markdown
 
 - 기본적인 마크다운 문법 학습
-    - [git_basic_command.md](https://github.com/junhyukM/TIL/blob/master/git/git_basic_command.md)
+    - [markdown.md](https://github.com/junhyukM/TIL/blob/master/markdown/markdown.md)
 - 학습 내용의 정리와 메모에 활용
 
 ## linux

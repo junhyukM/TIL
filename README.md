@@ -26,3 +26,12 @@
 - git pull, git merge 등의 명령어로 각 상황들에서 어떻게 해결이 가능한지 정리
     - [git_basic_command.md](https://github.com/junhyukM/TIL/blob/master/git/git_basic_command.md)
 
+## Git 간단한 웹페이지 활용
+- `bootstrap template` 으로 서칭해서 웹페이지를 구현하는 파일 저장
+- 간단하게 내용을 바꾸고 github에 업로드 해봄
+- github에서 제공하는 기능
+    - `repo`를 만들 때 `계정이름.github.io` 로 만들어야 함
+    - 그러면 `계정이름.github.io` 로 크롬에 주소입력하면 구현된 페이지를 볼 수 있음
+    - [junhyukM@github.io](https://github.com/junhyukM/junhyukM.github.io)
+    - [구현된 페이지](https://junhyukm.github.io/)
+    

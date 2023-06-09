@@ -78,3 +78,7 @@ for menu in menus:
     print(menu)
 ```    
 > 반복문을 사용하는 이유는 특정 동작을 반복을 통해 원하는 볼륨 만큼의 결과를 얻고 싶을 때 사용.
+
+
+---
+강의 수강하며 작성한 python 파일은 [github python](https://github.com/junhyukM/python/blob/master/basic.py)에 업로드 되어 있음

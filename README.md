@@ -35,3 +35,11 @@
     - [junhyukM@github.io](https://github.com/junhyukM/junhyukM.github.io)
     - [구현된 페이지](https://junhyukm.github.io/)
     
+## python 언어 학습
+- 프로그래밍 언어?
+    - [About_programming_python](https://github.com/junhyukM/TIL/blob/master/python/About_programming_python.md)
+- python 의 기초 내용, 문법 학습
+    - [python_basic_syntax](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax.md)
+- 간단한 request, BeautifulSoup 패키지 활용
+    - [python_requests](https://github.com/junhyukM/TIL/blob/master/python/python_requests.md)    
+

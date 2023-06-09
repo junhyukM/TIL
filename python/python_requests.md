@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
     URL = 'https://ajgkasentlasdj.aksgkas/agjh/'
     requests.get(URL)
     ```
-- 
+
 
 - `BeautifulSoup()`
     - get() 으로 가지고온 데이터를 parsing 하는 패키지
@@ -28,3 +28,5 @@ from bs4 import BeautifulSoup
 ### API를 이용해 데이터를 추출하든, 개발자도구에서 selector를 알아내 특정 데이터를 추출하든 방법은 비슷하고, 데이터의 형식과 원하는 값이 있는 곳의 요소가 무엇인지 파악하는 것이 데이터 추출에 중요한 내용으로 보인다.
 
 
+---
+강의 수강하며 작성한 python 파일 [github python](https://github.com/junhyukM/python/blob/master/req.py)에 업로드

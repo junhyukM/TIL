@@ -38,13 +38,21 @@
 cd ~/Desktop/swcamp25/markdown
 ```
 
-- mkdir (make directory)
+- `mkdir` (make directory)
     - 폴더 생성
+    ```python
+    # 입력한 폴더명의 폴더가 현재위치에 생성
+    mkdir 폴더명
+    ```
 
-- touch ()
+- `touch`
     - 파일 생성
+    ```python 
+    # 입력한 파일명.파일형식의 파일이 현재위치에 생성
+    touch 파일명.md
+    ```
 
-- rm (remove)
+- `rm` (remove)
     - 파일 삭제 (폴더는 지울 수 없다)
     - `-rf` option 사용하면 폴더 지울 수 있음
         - `-r` (recursion) 재귀
@@ -88,15 +96,3 @@ git config --global user.email 'minjh1031@gmail.com' -> 설정할게 ('minjh1031
     ```
     mv markdown.md markdown/   -> markdown.md 를 markdown 폴더 안에 옮기기
     ```
-
-
-
-
-
-
-
-
-
-
-
-

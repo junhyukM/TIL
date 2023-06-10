@@ -14,7 +14,7 @@
 
 
 
-### `requests`, `decouple` 등 특정 모듈의 함수를 사용하기 위해선 모듈을 `install` 해주어야 한다.
+### `requests`, `decouple` 등 외부 모듈의 함수를 사용하기 위해선 모듈을 `install` 해주어야 한다.
 
 ```python
 # 콘솔창에 입력한다

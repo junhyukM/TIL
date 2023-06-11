@@ -45,7 +45,16 @@ dust_dict = {
 print(dust_dict)
 # key 값이 '서울'인 데이터의 value가 출력 -> 100
 print(dust_dict['서울'])
+
+# 셋 set()
+# 로또 번호 당첨 체크할 때 사용했던 자료형
+
+num = [1, 2, 3, 4, 5]
+
+set_num = set(num)
+print(set_num)
 ```
+
 ## 위와 같이 변수에는 숫자형, 문자형, True / False, 리스트, 딕셔너리의 형태로 저장될 수 있다.
 
 ---

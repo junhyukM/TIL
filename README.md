@@ -42,7 +42,7 @@
     - 학습 완료 시 까지 업데이트 할 것이고, 학습 완료시 전체적인 정리 및 파일 정리 필요
     - 학습 완료 이전까지는 데일리로 생기는 정리내용 추가만 진행
     - [python_basic_syntax](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax.md)
-    - [python_basic_syntax]()
+    - [python_basic_syntax_2](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_2.md)
 
 - 간단한 request, BeautifulSoup 패키지 활용
     - [python_requests](https://github.com/junhyukM/TIL/blob/master/python/python_requests.md)    

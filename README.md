@@ -43,7 +43,11 @@
     - 학습 완료 이전까지는 데일리로 생기는 정리내용 추가만 진행
     - [python_basic_syntax](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax.md)
     - [python_basic_syntax_2](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_2.md)
+    - [python_basic_syntax_3]()
 
 - 간단한 request, BeautifulSoup 패키지 활용
     - [python_requests](https://github.com/junhyukM/TIL/blob/master/python/python_requests.md)    
 
+## SWEA 풀이
+- python 알고리즘 문제 풀이
+    - [algo](https://github.com/junhyukM/algo)

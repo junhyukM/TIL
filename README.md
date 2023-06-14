@@ -44,7 +44,7 @@
     - [python_basic_syntax](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax.md)
     - [python_basic_syntax_2](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_2.md)
     - [python_basic_syntax_3](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_3.md)
-    - [python_basic_syntax_](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_4.md)
+    - [python_basic_syntax_4](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_4.md)
 
 - 간단한 request, BeautifulSoup 패키지 활용
     - [python_requests](https://github.com/junhyukM/TIL/blob/master/python/python_requests.md)    

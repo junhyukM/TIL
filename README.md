@@ -46,6 +46,7 @@
     - [python_basic_syntax_3](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_3.md)
     - [python_basic_syntax_4](https://github.com/junhyukM/TIL/blob/master/python/python_basic_syntax_4.md)
     - [python_OOP](https://github.com/junhyukM/TIL/blob/master/python/python_OOP.md)
+    - 16일자 추가
 
 - 간단한 request, BeautifulSoup 패키지 활용
     - [python_requests](https://github.com/junhyukM/TIL/blob/master/python/python_requests.md)    

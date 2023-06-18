@@ -58,5 +58,5 @@
 ## 프로그래머스
 - python 알고리즘 문제 풀이
     - [프로그래머스](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=python3)
-    - 코딩테스트 입문 문제 풀이 주말동안 마무리 목표
+    - 코딩테스트 입문 문제 3페이지까지 풀이 완료
 

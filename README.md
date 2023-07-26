@@ -64,4 +64,5 @@
 - pandas 패키지
     - pandas 패키지를 활용한 자료구조
         - Series, DataFrame
-    - DataFrame을 활용하여 데이터 정제, 시각화 관련 학습    
+    - DataFrame을 활용하여 데이터 정제, 시각화 관련 학습
+    

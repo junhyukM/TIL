@@ -60,3 +60,8 @@
     - [프로그래머스](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=python3)
     - 코딩테스트 입문 문제 3페이지까지 풀이 완료
 
+## pandas
+- pandas 패키지
+    - pandas 패키지를 활용한 자료구조
+        - Series, DataFrame
+    - DataFrame을 활용하여 데이터 정제, 시각화 관련 학습    
